@@ -1,3 +1,4 @@
+> **[OpenA2A](https://github.com/opena2a-org/opena2a)**: [CLI](https://github.com/opena2a-org/opena2a) · [HackMyAgent](https://github.com/opena2a-org/hackmyagent) · [Secretless](https://github.com/opena2a-org/secretless-ai) · [AIM](https://github.com/opena2a-org/agent-identity-management) · [Browser Guard](https://github.com/opena2a-org/AI-BrowserGuard) · [DVAA](https://github.com/opena2a-org/damn-vulnerable-ai-agent)
 # Agent Trust Protocol (ATP)
 
 An open standard for verifiable trust assertions about AI agents.
@@ -47,8 +48,7 @@ The [OpenA2A Registry](https://github.com/opena2a-org/opena2a-registry) implemen
 ## Related Standards
 
 - [AIP (Agent Identity Protocol)](https://github.com/opena2a-org/agent-identity-protocol) — identity + capabilities
-- [OASB (Open Agent Security Benchmark)](https://github.com/opena2a-org/open-agent-security-benchmark) — security controls
-- [CAAT (Content-Addressed Adaptive Trust)](https://github.com/opena2a-org/caat-framework) — scan infrastructure
+- [OASB (Open Agent Security Benchmark)](https://github.com/opena2a-org/oasb) — security controls
 
 ## License
 
